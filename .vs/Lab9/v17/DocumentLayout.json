@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roman\\source\\repos\\Lab9\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09230E66-A058-404E-9478-8B6DF4094D64}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09230E66-A058-404E-9478-8B6DF4094D64}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC7588A4-91E7-471A-82C0-C6A14EEF4062}|Lab9\\Lab9.vcxproj|C:\\Users\\Roman\\source\\repos\\Lab9\\Lab9\\Lab9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CC7588A4-91E7-471A-82C0-C6A14EEF4062}|Lab9\\Lab9.vcxproj|solutionrelative:Lab9\\Lab9.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAACsAAAAAAAAAAAAQwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T11:05:23.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Lab9.cpp",
+              "DocumentMoniker": "C:\\Users\\Roman\\source\\repos\\Lab9\\Lab9\\Lab9.cpp",
+              "RelativeDocumentMoniker": "Lab9\\Lab9.cpp",
+              "ToolTip": "C:\\Users\\Roman\\source\\repos\\Lab9\\Lab9\\Lab9.cpp",
+              "RelativeToolTip": "Lab9\\Lab9.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T11:00:50.031Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
